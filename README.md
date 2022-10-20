@@ -7,6 +7,9 @@ This website are developed using .NET 6.0 on Visual Studio 2022.
 I am using Microsoft's documentation, YouTube videos, and Stackoverflow's answers to develop this website.
 
 Reference:
+
 https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-6.0
+
 https://youtu.be/BfEjDD8mWYg
+
 https://youtu.be/C5cnZ-gZy2I
