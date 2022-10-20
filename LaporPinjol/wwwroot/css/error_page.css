@@ -1,0 +1,15 @@
+﻿.container {
+    height: 200px;
+    position: relative;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+}
+
+.error_text {
+    color: red;
+}
